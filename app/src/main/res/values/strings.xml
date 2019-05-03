@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Click</string>
+    <string name="edittext">edit text</string>
+    <string name="enter">Enter something</string>
+    <string name="button">Display</string>
+    <string name="textview">show</string>
+    <string name="textedit">Display what user enter</string>
+    <string name="enable">enable</string>
+    <string name="disable">disable</string>
+</resources>
